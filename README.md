@@ -13,6 +13,20 @@ This project marked a major milestone in my career — it was **conceptualized, 
 
 ---
 
+## 🕰️ Project Journey
+
+- **Developed in:** 2008  
+- **Deployed at client site:** 2009  
+- **Operational span:** ~10 years  
+
+After its first year of refinement, **FiltrumTAXInvoice** ran flawlessly at the client’s premises for nearly a decade.  
+For **eight consecutive years**, the system operated **without a single support call or change request** — apart from periodic invoice collection visits 😊.  
+
+In **2019**, the project was gracefully retired when the client migrated their invoice management into an **Oracle-based ERP system**.  
+Despite that, the stability and reliability of this project remain a proud highlight of my early professional journey.
+
+---
+
 ## ⚙️ Tech Stack
 
 - **Frontend & Backend:** ASP.NET (Web Forms / MVC)  
@@ -38,7 +52,7 @@ This project marked a major milestone in my career — it was **conceptualized, 
 
 - Built **from scratch** as a **solo developer**  
 - Real-time deployment and integration with a live business environment  
-- A foundational project that **sparked my long-term vision** of building enterprise-grade applications independently  
+- Operated for **a full decade** with minimal maintenance  
 - Served as the **seed project** that shaped my approach to scalable and maintainable software design  
 
 ---
@@ -55,13 +69,15 @@ This project marked a major milestone in my career — it was **conceptualized, 
 **Author:** Amol  
 **Role:** Software Architect & Developer  
 **Built for:** Commercial deployment  
+**Timeline:** 2008 – 2019  
 **Status:** Legacy Project — Foundation of my enterprise architecture journey  
 
 ---
 
 ## 💬 Reflections
 
-> “FiltrumTAXInvoice was more than just a project — it was the moment I realized I could independently design and deliver real enterprise applications. It planted the seed for every product idea that followed.”
+> “FiltrumTAXInvoice was more than just a project — it was the moment I realized I could independently design and deliver real enterprise applications.  
+> Running flawlessly for almost a decade without support wasn’t just a technical win — it was a statement of reliability, simplicity, and strong fundamentals.”  
 
 ---
 
