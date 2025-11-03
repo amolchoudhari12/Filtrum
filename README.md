@@ -57,4 +57,47 @@ Industry: Automotive & Industrial Filters Manufacturing
 
 ---
 
-## Project Structure (Key Files)
+
+---
+
+## How It Works
+
+1. Select **Customer** → Auto-fill address, taxes, ECC  
+2. Select **PO** → Loads items in grid  
+3. **Check items** → Max 8 per invoice  
+4. Click **"Total"** → Calculate net, duties, VAT  
+5. **Save** → Generate unique invoice number  
+6. **Print** → Redirect to formatted report  
+
+---
+
+## My Journey
+
+- Built **solo** with no team  
+- First time handling **real tax rules**  
+- Learned **enterprise patterns** from scratch  
+- Delivered **production-ready software**  
+- **First paid project** → Career-defining moment  
+
+---
+
+## Setup (Legacy System)
+
+> Requires: Windows, IIS, SQL Server, Visual Studio
+
+```bash
+1. Restore SQL database
+2. Update connection string in web.config
+3. Open in Visual Studio
+4. Run InvoiceManagement.aspx
+
+
+
+---
+
+### Steps to Use:
+1. **Download** the file from the link above  
+2. Place it in your project root  
+3. Commit & push to GitHub
+
+Your repo will look **professional and heartfelt** — perfect for showcasing your journey!
